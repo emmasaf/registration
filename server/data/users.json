@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "John",
+    "surname": "Doe",
+    "email": "john@example.com",
+    "password": "john@example.com",
+    "birthday": "1990-05-15",
+    "gender": "male"
+  },
+  {
+    "id": "2",
+    "name": "Alice",
+    "surname": "Smith",
+    "email": "alice@example.com",
+    "password": "alice@example.com",
+    "birthday": "1985-08-20",
+    "gender": "female"
+  },
+  {
+    "id": "1710411383301",
+    "name": "Alik",
+    "surname": "Muradyan",
+    "email": "Alikmradyan22@mail.com",
+    "password": "Alik1-@mail.ru",
+    "birthday": "0232-02-21",
+    "gender": "female"
+  },
+  {
+    "id": "1710419309268",
+    "name": "aaakl",
+    "surname": "aaalk",
+    "email": "aaaa@dsd.com",
+    "password": "Nely1404@",
+    "birthday": "2024-03-18",
+    "gender": "female"
+  },
+  {
+    "id": "1710419495734",
+    "name": "asdasd",
+    "surname": "Saf",
+    "email": "aaadsda@dsd.com",
+    "password": "Nely1404@",
+    "birthday": "2024-03-18",
+    "gender": "other"
+  }
+]
